@@ -69,3 +69,4 @@ The e2e tests are using Protractor and Jasmine.
 - [Node](https://nodejs.org) - Javascript Runtime
 - [Express](https://expressjs.com/) - Javascript API Framework
 
+[![CircleCI](https://circleci.com/gh/Doaa-Mohamed-Elsayed/udacity-full-stack-project.svg?style=svg)](<https://circleci.com/gh/Doaa-Mohamed-Elsayed/udacity-full-stack-project.svg?style=svg>)
